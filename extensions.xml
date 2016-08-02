@@ -1492,6 +1492,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.kpath">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="k-infinity" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.kt">
       <plugins>
         <option name="myPlugins">
@@ -1537,6 +1550,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.jantvrdik.intellij.latte" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.ldapnode">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.majki.intellij.ldapbrowser" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -1875,6 +1901,19 @@
           <set>
             <plugin>
               <option name="myPluginId" value="com.intellij.plugins.haxe" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.nomad">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
@@ -2908,6 +2947,19 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.tfvars">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.thor">
       <plugins>
         <option name="myPlugins">
@@ -3448,6 +3500,19 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="com.intellij.apacheConfig" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="Appfile">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
