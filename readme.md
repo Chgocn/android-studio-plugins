@@ -10,9 +10,20 @@
 
 - [Chgocn-AndroidStudio-插件备份集](https://github.com/Chgocn/android-studio-plugins)
 
+### 使用
+
+1. 进入C:\Users\yourComputerUserName\.AndroidStudio2.X\config\plugins
+
+        git clone https://github.com/Chgocn/android-studio-plugins
+
+2. 重启Android Studio
 
 ### 具体
 
+#### 2016.08.02更新
+- **WakaTime**：<https://github.com/wakatime/jetbrains-wakatime>
+
+#### 2016.07.23更新
 - **jetbrains Android Studio插件官网**：<https://plugins.jetbrains.com/?androidstudio/>
 - **Material Theme UI**：<https://plugins.jetbrains.com/plugin/8006?pr=androidstudio>
 - **CheckStyle-IDEA**：<https://plugins.jetbrains.com/plugin/1065?pr=androidstudio>
@@ -31,8 +42,6 @@
 - **Android Localizationer**：<https://plugins.jetbrains.com/plugin/7629?pr=androidstudio>
 - **Android Methods Count**：<https://plugins.jetbrains.com/plugin/8076?pr=androidstudio>
 
-#### 2016.08.02更新
-- **WakaTime**：<https://github.com/wakatime/jetbrains-wakatime>
 
 ### 参考
 
