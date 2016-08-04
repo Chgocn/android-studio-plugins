@@ -1214,19 +1214,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.iuml">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="PlantUML integration" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.jet">
       <plugins>
         <option name="myPlugins">
@@ -2275,19 +2262,6 @@
           <set>
             <plugin>
               <option name="myPluginId" value="DBN" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.puml">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="PlantUML integration" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
